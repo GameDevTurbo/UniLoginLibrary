@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - UniLoginFramework (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - UniLoginFramework (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  UniLoginFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  UniLoginFramework: 455857c84663da06c451722d896e8a583a11bc95
+
+PODFILE CHECKSUM: 83d41eb8835e8f487780b76eb4454badb7893824
+
+COCOAPODS: 1.11.2

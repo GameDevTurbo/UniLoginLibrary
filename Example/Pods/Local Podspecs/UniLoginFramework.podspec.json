@@ -1,0 +1,22 @@
+{
+  "name": "UniLoginFramework",
+  "version": "0.1.0",
+  "summary": "A short description of UniLoginFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/GGPlayer/UniLoginFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GGPlayer": "13145770643@163.com"
+  },
+  "source": {
+    "git": "https://github.com/GGPlayer/UniLoginFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "UniLoginFramework/Classes/**/*"
+}

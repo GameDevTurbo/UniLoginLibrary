@@ -1,0 +1,6 @@
+framework module Pods_UniLoginFramework_Tests {
+  umbrella header "Pods-UniLoginFramework_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
